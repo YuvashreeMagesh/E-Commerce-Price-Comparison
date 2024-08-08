@@ -29,3 +29,9 @@ I spearheaded the development of an e-commerce price comparison and predictor to
 - **Real-time Updates:** Implement features to provide real-time updates on product prices and availability.
 
 By leveraging Python libraries and web scraping techniques, this e-commerce price comparison and predictor tool aims to revolutionize online shopping experiences, empowering users with valuable insights and saving them time and money.
+
+![image](https://github.com/user-attachments/assets/66def770-af5e-4d72-b86b-4db744708ffa)
+![image](https://github.com/user-attachments/assets/18ba7ac4-21e1-49d4-80bb-363fc16379e3)
+
+
+
